@@ -61,7 +61,7 @@ claude "/fix-today"
 
 Aristaeus Agentic AI Consulting helps security teams operationalize AI-driven program management. We build agentic workflows that turn operational security data into strategic decisions.
 
-- **Web:** [aristaeus.ai](#)
+- **Web:** [example](#)
 - **Email:** partners@example
 - **CyberAgents Exchange:** [exchange.tenable.com](#)
 
